@@ -8,7 +8,7 @@ The requirements below are based on interviews with multiple stakeholders repres
 * CDWG (Clinical Domain Working Group) - 
 * CDWG Oversight committee (OC) - 
 * Co-chairs - 
-* COI - Conflict of interest
+* COI - Conflict of interest`
 * Expert Panel (EP) - 
 * EP Members - Members of an expert panel  
 Members include:
@@ -16,7 +16,8 @@ Members include:
   * Biocurator - Does biocuration for the EP
   * 
 * GCEP - Gene Curation Expert Panel
-* SVI - 
+* SOP - Standard Operating Procedure
+* SVI - S? Variant Interpretation
 * VCEP - Variant Curation Expert Panel
 
 
@@ -34,6 +35,8 @@ The EP application process differs between GCEPs and VCEPs.  GCEPs only need to 
   * An EP member should have the following data:
     * First and last name
     * Email address
+    * Institution
+    * Area and type of expertise
     * Role (i.e. Biocurator, Coordinator, Leadership, etc.)
   * Added members should be notified that they have been added and given information about how to log in
   * EP members must be able to complete a COI form.
@@ -44,6 +47,19 @@ The EP application process differs between GCEPs and VCEPs.  GCEPs only need to 
 * A coordinator needs information about how to complete the application
   * A coordinator would like "gold-standard" examples of an application
 
+* A coordinator needs to be able to define an SOP 
+* An authorized user should be able to comment on and SOP
+
+### AMCG Guidelines Draft
+* A coordinator should be able to submit draft AMCG guidelines in a structured way
+  * ACMG/AMP guidelines have the following structure:
+     * applicable genes
+     * Description for criteria
+        * PVS1, PS1-4, PM1-6, PP1-5, BA1, BS1-4, BP1-6
+    * Rules for pathogenic and benign classification
+* An authorized user should be able to comment on guidelines draft.
+* Comments should be related to a specific draft of a guidelines section
+
 ## Expert panel maintainence
 * A coordinator should be able to see a list of EP members including the following information:
   * Name, email, COI status, role
@@ -51,6 +67,9 @@ The EP application process differs between GCEPs and VCEPs.  GCEPs only need to 
 ### Annual Review
 * A coordinator must review EP members and make any updates that have not been recorded.
 * A coordinator must complete any new application sections that they have not previously completed.
+
+### Comments
+* An authorized user should be able to reply to a comment on any part of an application.
 
 ## Integration and Data Sharing
 * Authorized external systems should be able to request information about an expert panel including:
@@ -60,5 +79,6 @@ The EP application process differs between GCEPs and VCEPs.  GCEPs only need to 
 * EP events should be produced sent to the Clingen Data Exchange including:
   * Application progress updates
   * EP Member updates (additions, edits, removal)
-* Should be able to link GCI/VCI affiliation with EP. 
+* Should be able to link GCI/VCI affiliation with EP.
+* Should be able to share approved Guidelines w/ Clingen Specification Repository
   
