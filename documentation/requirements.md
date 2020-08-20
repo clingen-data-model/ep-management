@@ -1,10 +1,13 @@
 # Expert Panel Management Requirements
 
+[back to project readme](../readme.md)
+
 The requirements below are based on interviews with multiple stakeholders representing multiple roles relevant to the creation and maintanence of Expert Panels.  This is intended to be a descriptive, not prescriptive description of user's needs to effectively manage ClinGen expert panels.
 
 ## Definition of terms and user roles
 * ACMG - American college of edial Genetics and Genomics
-  * ACMG Guidelines - 
+  * ACMG/AMP Guidelines - General guidelines for interpreting the pathogenicity of variants.
+  * ACMG/AMP guideline specifications (specifications) - VCEP specifications of the AMCG/AMP Guidelines applicable to the VCEP's genes of interest.
 * CDWG (Clinical Domain Working Group) - 
 * CDWG Oversight committee (OC) - 
 * Co-chairs - 
@@ -17,7 +20,8 @@ Members include:
   * 
 * GCEP - Gene Curation Expert Panel
 * SOP - Standard Operating Procedure
-* SVI - S? Variant Interpretation
+* SVI - Sequence Variant Interpretation
+  * Rule Specification Review Committee - Reviews and approves VCEP ACMG specifications 
 * VCEP - Variant Curation Expert Panel
 
 
@@ -50,7 +54,7 @@ The EP application process differs between GCEPs and VCEPs.  GCEPs only need to 
 * A coordinator needs to be able to define an SOP 
 * An authorized user should be able to comment on and SOP
 
-### AMCG Guidelines Draft
+### AMCG/AMP Guideline Specifications
 * A coordinator should be able to submit draft AMCG guidelines in a structured way
   * ACMG/AMP guidelines have the following structure:
      * applicable genes
@@ -59,6 +63,9 @@ The EP application process differs between GCEPs and VCEPs.  GCEPs only need to 
     * Rules for pathogenic and benign classification
 * An authorized user should be able to comment on guidelines draft.
 * Comments should be related to a specific draft of a guidelines section
+
+### Specifications Pilot
+* ?
 
 ## Expert panel maintainence
 * A coordinator should be able to see a list of EP members including the following information:
