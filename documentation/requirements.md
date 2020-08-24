@@ -1,6 +1,6 @@
 # Expert Panel Management Requirements
 
-[back to project readme](https://github.com/yugen/ep-management#readme)
+[back to project readme](https://github.com/clingen-data-model/ep-management#readme)
 
 The requirements below are based on interviews with multiple stakeholders representing multiple roles relevant to the creation and maintanence of Expert Panels.  This is intended to be a descriptive, not prescriptive description of user's needs to effectively manage ClinGen expert panels.
 
