@@ -21,4 +21,5 @@ Ideas that are not yet requirements.
     * MS outlook/teams
     * confluence
     * slack
+    * trello
 * Training tracking

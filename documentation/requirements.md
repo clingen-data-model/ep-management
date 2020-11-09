@@ -29,6 +29,12 @@ Members include:
 The EP application process differs between GCEPs and VCEPs.  GCEPs only need to define the scope and membership of their group (EP Definition).  VCEPs must also develop and pilot AMCG guidelines.  
 
 ### General
+* Authorized users should be able to move an application from one step to another.
+* Authorized users should be able to see a list of all EPs and their their position in the application process.
+* Authorized users should be able to see a list of all EPs and their position in the application process.
+* Authorized users should be able to attach files (Word, Excel, PowerPoint, PDF, etc) to an EP.
+* Authorized users should be able to attach files (Word, Excel, PowerPoint, PDF, etc) to an EP’s Application.
+* Authorized users should be able to add a coordinator to an EP.
 * An applicant should have a checklist of recommended and required steps for completing the application process.
 * An EP member should have a checklist of recommended and required steps for meeting requirements.
 
@@ -80,20 +86,22 @@ The EP application process differs between GCEPs and VCEPs.  GCEPs only need to 
 * An authorized user should be able to comment on and SOP
 
 ### AMCG/AMP Guideline Specifications
-* A coordinator should be able to create, update, and delete draft AMCG guidelines in a structured way
-  * ACMG/AMP guidelines have the following structure:
-     * applicable genes
-     * Description for criteria
-        * PVS1, PS1-4, PM1-6, PP1-5, BA1, BS1-4, BP1-6
-    * Rules for pathogenic and benign classification
-* An authorized user should be able to comment on guidelines draft.
-* Comments should be related to a specific draft of a guidelines section
-* A coordinator must be able to submit draft guidelines to the SVI RSRC.
+* Baylor’s Specification registry will handle structured entry and versioning of ACMG guidelines specifications.
+* Applicants and users should be able to move easily between this system and the Specifications Registry.
+* ~~A coordinator should be able to create, update, and delete draft AMCG guidelines in a structured way~~
+  * ~~ACMG/AMP guidelines have the following structure:~~
+     * ~~applicable genes~~
+     * ~~Description for criteria~~
+        * ~~PVS1, PS1-4, PM1-6, PP1-5, BA1, BS1-4, BP1-6~~
+    * ~~Rules for pathogenic and benign classification~~
+* ~~An authorized user should be able to comment on guidelines draft.~~
+* ~~Comments should be related to a specific draft of a guidelines section~~
+* ~~A coordinator must be able to submit draft guidelines to the SVI RSRC.~~
 
 ### Specifications Pilot
 * The system should be able to collection GCI/VCI records related to pilot.
 * A coordinator must be able to submit final specifications and variants used in pilot to SVI RSRC
-* A SVI RSRC memebr should be able to provide feedback on specifications and pilot
+* A SVI RSRC member should be able to provide feedback on specifications and pilot
 * A VCEP member should be able to reply to SVI RSRC feedback.
 * A SVI RSRC member should be able to approve final specifications
 
@@ -119,4 +127,6 @@ The EP application process differs between GCEPs and VCEPs.  GCEPs only need to 
 * Should be able to link GCI/VCI affiliation with EP.
 * Should be able to share approved Guidelines w/ Clingen Specification Repository
 * Integration with GeneTracker (GCEP/VCEP gene list)
+* Groups and members should be synchronized with the Personnel Management system
+
   
